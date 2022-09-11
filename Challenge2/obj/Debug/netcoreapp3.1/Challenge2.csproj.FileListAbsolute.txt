@@ -1,0 +1,14 @@
+/Users/almararn/Projects/Cprimer2/Challenge2/bin/Debug/netcoreapp3.1/Challenge2
+/Users/almararn/Projects/Cprimer2/Challenge2/bin/Debug/netcoreapp3.1/Challenge2.deps.json
+/Users/almararn/Projects/Cprimer2/Challenge2/bin/Debug/netcoreapp3.1/Challenge2.runtimeconfig.json
+/Users/almararn/Projects/Cprimer2/Challenge2/bin/Debug/netcoreapp3.1/Challenge2.runtimeconfig.dev.json
+/Users/almararn/Projects/Cprimer2/Challenge2/bin/Debug/netcoreapp3.1/Challenge2.dll
+/Users/almararn/Projects/Cprimer2/Challenge2/bin/Debug/netcoreapp3.1/Challenge2.pdb
+/Users/almararn/Projects/Cprimer2/Challenge2/obj/Debug/netcoreapp3.1/Challenge2.csproj.AssemblyReference.cache
+/Users/almararn/Projects/Cprimer2/Challenge2/obj/Debug/netcoreapp3.1/Challenge2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/almararn/Projects/Cprimer2/Challenge2/obj/Debug/netcoreapp3.1/Challenge2.AssemblyInfoInputs.cache
+/Users/almararn/Projects/Cprimer2/Challenge2/obj/Debug/netcoreapp3.1/Challenge2.AssemblyInfo.cs
+/Users/almararn/Projects/Cprimer2/Challenge2/obj/Debug/netcoreapp3.1/Challenge2.csproj.CoreCompileInputs.cache
+/Users/almararn/Projects/Cprimer2/Challenge2/obj/Debug/netcoreapp3.1/Challenge2.dll
+/Users/almararn/Projects/Cprimer2/Challenge2/obj/Debug/netcoreapp3.1/Challenge2.pdb
+/Users/almararn/Projects/Cprimer2/Challenge2/obj/Debug/netcoreapp3.1/Challenge2.genruntimeconfig.cache
