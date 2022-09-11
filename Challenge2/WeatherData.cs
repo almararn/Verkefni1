@@ -10,7 +10,7 @@ namespace Challenge2
                 return _temperature;
             }
             set {
-                if (value > -60 && value < 60)
+                if (value >= -60 && value <= 60)
                 {
                     _temperature = value;
                 }
@@ -29,7 +29,7 @@ namespace Challenge2
                 return _humidity;
             }
             set {
-                if (value > 0 && value < 100)
+                if (value >= 0 && value <= 100)
                 {
                     _humidity = value;
                 }
